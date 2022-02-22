@@ -1,2 +1,2 @@
 # Alpro-A1
-GanarKhatirFazaZain-24060121130079
+Ganar Khatir Faza Zain - 24060121130079
