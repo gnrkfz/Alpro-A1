@@ -12,7 +12,7 @@ int main() {
    printf("Masukan Sisi: ");
    scanf("%d",&Sisi);
 
-   printf("%d", sisi*sisi);
+   printf("%d", Sisi*Sisi);
 
    return 0;
 }
