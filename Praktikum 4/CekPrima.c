@@ -1,5 +1,5 @@
-/* Nama File	: CekPrima.c */
-/* Deskripsi	: untuk mengetahui sebuah bilangan integer sembarang N (N>0) termasuk
+/* Nama File	  : CekPrima.c */
+/* Deskripsi	  : untuk mengetahui sebuah bilangan integer sembarang N (N>0) termasuk
                   bilangan prima atau bukan. */
 /* Pembuat	    : Ganar Khatir Faza Zain - 24060121130079 */
 /* Tanggal	    : Selasa, 15 Maret 2022 */
