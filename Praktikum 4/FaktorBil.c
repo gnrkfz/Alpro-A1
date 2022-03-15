@@ -1,8 +1,8 @@
-/* Nama File	  : FaktorBil.c */
-/* Deskripsi	  : untuk menentukan faktor-faktor bilangan dari bilangan integer sembarang
-                  N (N > 0) */
-/* Pembuat	    : Ganar Khatir Faza Zain - 24060121130079 */
-/* Tanggal	    : Selasa, 15 Maret 2022 */
+/* Nama File	: FaktorBil.c */
+/* Deskripsi	: untuk menentukan faktor-faktor bilangan dari bilangan integer sembarang
+                N (N > 0) */
+/* Pembuat	  : Ganar Khatir Faza Zain - 24060121130079 */
+/* Tanggal	  : Selasa, 15 Maret 2022 */
 
 #include <stdio.h>
 #include <stdlib.h>
