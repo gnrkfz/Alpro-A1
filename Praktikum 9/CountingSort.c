@@ -1,11 +1,11 @@
 /* Nama File	: CountingSort.c */
 /* Deskripsi	: Algoritma sorting dengan cara menghitung jumlah kemunculan dari setiap
-                  data yang berada di dalam array */
-/* Pembuat	    : Ganar Khatir Faza Zain - 24060121130079 */
-/* Tanggal	    : Selasa, 19 April 2022 */
+                data yang berada di dalam array */
+/* Pembuat	  : Ganar Khatir Faza Zain - 24060121130079 */
+/* Tanggal	  : Selasa, 19 April 2022 */
 
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 void counting_sort(int arr1[],int n,int max, int min){
     int count[50]={0},i,j;
@@ -34,7 +34,6 @@ int main(){
         printf("%d ", arr[i]);
     }
     printf("\n Max: %d\n Min: %d\n ",max,min);
-    //printf("\nNilai Max: %d\n", max);
 
     printf("Array setelah disorting: ");
     counting_sort(arr,n,max, min);
