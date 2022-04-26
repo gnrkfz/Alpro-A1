@@ -1,6 +1,5 @@
 /* Nama File	: CountingSort.c */
-/* Deskripsi	: Algoritma sorting dengan cara menghitung jumlah kemunculan dari setiap
-                  data yang berada di dalam array */
+/* Deskripsi	: Algoritma sorting dengan cara menghitung jumlah kemunculan dari setiap data yang berada di dalam array */
 /* Pembuat	: Ganar Khatir Faza Zain - 24060121130079 */
 /* Tanggal	: Selasa, 19 April 2022 */
 
