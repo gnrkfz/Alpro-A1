@@ -1,6 +1,5 @@
 /* Nama File	: BubbleSort.c */
-/* Deskripsi	: Algoritma sorting dengan melakukan penukaran data secara terus menerus
-                  sampai urut */
+/* Deskripsi	: Algoritma sorting dengan melakukan penukaran data secara terus menerus sampai urut */
 /* Pembuat      : Ganar Khatir Faza Zain - 24060121130079 */
 /* Tanggal      : Selasa, 19 April 2022 */
 
