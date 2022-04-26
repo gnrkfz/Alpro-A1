@@ -24,8 +24,11 @@ int main(){
     n = 10;
     int arr[] = {6,10,3,9,7,6,99,88,91,25};
     bubbleSort(arr, n);
+    
     printf("Sorted Array: \n");
-    for (i = 0; i < n; i++)
+    for (i = 0; i < n; i++){
         printf("%d ", arr[i]);
+    }
+    
     return 0;
 }
