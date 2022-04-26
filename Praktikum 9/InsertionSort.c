@@ -1,7 +1,7 @@
 /* Nama File	: SelectionSort.c */
 /* Deskripsi	: Algoritma sorting dengan menyisipkan elemen data ke posisi yang tepat */
-/* Pembuat     : Ganar Khatir Faza Zain - 24060121130079 */
-/* Tanggal     : 26 April 2022 */
+/* Pembuat      : Ganar Khatir Faza Zain - 24060121130079 */
+/* Tanggal      : 26 April 2022 */
 
 #include <stdio.h>
 #include <stdlib.h>
